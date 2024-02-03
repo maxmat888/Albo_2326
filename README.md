@@ -21,11 +21,11 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
 
-
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Giacomo Panconi |  |  | [GitHub]() |
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
