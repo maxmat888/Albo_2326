@@ -30,7 +30,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
-| | Nome Cognome |  |  | [GitHub]() |
+| | Andrea Spotti |  |  | [[GitHub]()](https://github.com/AndreaSp04) |
 
 ## Programming
 |   | Nome | Corso | Team | Url |
