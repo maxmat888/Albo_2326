@@ -31,6 +31,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Alessandro Perini |  |  | [GitHub]() |
 
 ## Programming
 |   | Nome | Corso | Team | Url |
