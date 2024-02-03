@@ -20,7 +20,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
-| | Davide Alex Biasibetti |  |  | [GitHub]() |
+| | Davide Alex Biasibetti | Game Design | Koffing | [GitHub](https://github.com/Alex9cento) |
 
 
 ## Concept Art
