@@ -20,6 +20,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Davide Alex Biasibetti | Game Design | Koffing | [GitHub](https://github.com/Alex9cento) |
 | | Noemi Sossella | Game Design | Team Ratata | [GitHub](https://github.com/NoemiSossella) |
 | | Giulia Lippi Marchetti |  |  | [GitHub]() |
 | | Edoardo Tagliati |  |  | [GitHub]() |
