@@ -40,6 +40,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Anna Giulia Dorelli |  |  | [GitHub]() |
 | | Alessandro Perini |  |  | [GitHub]() |
 | | Andrea Spotti |  |  | [[GitHub]()](https://github.com/AndreaSp04) |
 
