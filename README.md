@@ -28,10 +28,10 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Filippo Marini |  |  | [GitHub]() |
 | | Ylenia Guidetti |  |  | [GitHub]() |
 | | Lorenzo Martini |  |  | [GitHub]() |
 | | Andrea Oleandro | Concept Art | Magikarp | [GitHub](https://github.com/AndreaOleandro) |
-
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
