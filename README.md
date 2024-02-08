@@ -24,12 +24,11 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 | | Giulia Lippi Marchetti |  |  | [GitHub]() |
 | | Edoardo Tagliati |  |  | [GitHub]() |
 
-
-
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Giacomo Panconi |  |  | [GitHub]() |
 | | Rebecca Dini |  |  | [GitHub]() |
 | | Ivan Yao |  |  | [GitHub]() |
 | | Fabio Ronchi |  |  | [GitHub]() |
