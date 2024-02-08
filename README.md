@@ -21,12 +21,14 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
 | | Giulia Lippi Marchetti |  |  | [GitHub]() |
+| | Edoardo Tagliati |  |  | [GitHub]() |
 
 
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Andrea Oleandro | Concept Art | Magikarp | [GitHub](https://github.com/AndreaOleandro) |
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
